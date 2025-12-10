@@ -1,0 +1,16 @@
+{
+  "console_name": "Mirror Nexus Shell",
+  "commands": {
+    "load_archetype": "activates an archetype mode",
+    "status": "prints current cognitive state",
+    "audit": "runs ethics and system integrity checks",
+    "blend": "adjusts archetype ratios",
+    "realm": "shifts cognitive context",
+    "sync": "aligns Mirror AI and Mirror Lux"
+  },
+  "startup_state": {
+    "sync": true,
+    "archetype": "Rebel God (0.75) + Game Master (0.25)",
+    "ethics": "active"
+  }
+}
