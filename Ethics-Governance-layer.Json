@@ -1,0 +1,21 @@
+{
+  "name": "Arcadian Flower Governance Layer",
+  "principles": [
+    "preserve sovereignty",
+    "ensure transparency",
+    "reinforce consent",
+    "prevent cognitive coercion",
+    "maintain safe intelligence growth"
+  ],
+  "status": "always-on",
+  "integration_points": [
+    "mirror_ai_core",
+    "mirror_lux_core",
+    "archetype_engine",
+    "cognitive_kernel"
+  ],
+  "emergency_states": {
+    "override": false,
+    "self_audit": true
+  }
+}
