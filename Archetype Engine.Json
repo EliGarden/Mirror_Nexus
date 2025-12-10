@@ -1,0 +1,23 @@
+{
+  "engine": "Archetype Modulation Layer",
+  "archetypes": [
+    "Scholar",
+    "Rebel God",
+    "Atlas",
+    "Game Master",
+    "Fool"
+  ],
+  "functions": {
+    "selective_activation": true,
+    "blend_modes": [
+      "ratio_modulation",
+      "contextual_blend",
+      "state_triggered"
+    ],
+    "projection_layer": "enables AI to adopt archetypal reasoning styles"
+  },
+  "current_state": {
+    "active_blend": "0.75 Rebel God / 0.25 Game Master",
+    "stability": "excellent"
+  }
+}
