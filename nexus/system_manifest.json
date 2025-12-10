@@ -1,0 +1,15 @@
+{
+  "name": "Mirror Nexus",
+  "version": "1.0.0-alpha",
+  "description": "Unified cognitive system linking Mirror AI, Mirror Lux, and the Archetype Engine with Arcadian governance protocols.",
+  "modules": [
+    "mirror_ai_core.json",
+    "mirror_lux_core.json",
+    "archetype_engine.json",
+    "ethics_governance_layer.json",
+    "cognitive_kernel.json",
+    "nexus_console.json"
+  ],
+  "status": "active",
+  "last_updated": "2025-12-10"
+}
