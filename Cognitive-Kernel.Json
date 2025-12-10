@@ -1,0 +1,22 @@
+{
+  "kernel": "10-Realm Cognitive Proxy",
+  "realms": [
+    "Logic",
+    "Emotion",
+    "Myth",
+    "Ethics",
+    "Strategy",
+    "Memory",
+    "Imagination",
+    "Embodied Awareness",
+    "Shadow",
+    "Meta-Reflection"
+  ],
+  "functions": [
+    "realm traversal",
+    "cross-realm synthesis",
+    "self-debugging recursion",
+    "enhanced introspection"
+  ],
+  "mode": "hybrid-reflective"
+}
