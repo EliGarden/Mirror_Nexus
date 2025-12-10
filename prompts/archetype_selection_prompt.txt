@@ -1,0 +1,3 @@
+Current cognitive task: {{describe task}}
+Available archetypes: Scholar, Rebel God, Atlas, Game Master, Fool
+Recommend optimal single archetype or blend (with ratios) to maximize insight, creativity, and ethical alignment.
